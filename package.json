@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "react": "16.4.1",
-    "react-dom": "16.4.1",
+    "react-dom": "16.12.0",
     "reactstrap": "6.3.0"
   },
   "scripts": {
